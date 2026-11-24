@@ -47,7 +47,7 @@ A backend REST API built with FastAPI and PostgreSQL to manage patient verificat
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/irmanj/health-verification-api
 cd health-verification-api
 ```
 
